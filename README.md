@@ -7,14 +7,12 @@ This is a Spark_tutorial_dataset.
 The tutorial document is in my github(https://github.com/SteveKim0513/spark_tutorial_on-quickstart-VM.git)
 
 
-_file list_
+
+-file list-
 
 shakespeare.txt
-
 sample_libsvm_data.txt
-
 lpsa.data
-
 people.txt
 
 
@@ -29,14 +27,11 @@ Add the dataset named "kv1.txt"
 This dataset is for additional tutorial,"Support hive on Spark".
 
 
-_file list_
+
+-file list-
 
 shakespeare.txt
-
 sample_libsvm_data.txt
-
 lpsa.data
-
 people.txt
-
 kv1.txt
