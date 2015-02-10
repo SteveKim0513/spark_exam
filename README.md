@@ -10,15 +10,10 @@ The tutorial document is in my github(https://github.com/SteveKim0513/spark_tuto
 
 -file list-
 
-shakespeare.txt
-sample_libsvm_data.txt
-lpsa.data
-people.txt
-
+shakespeare.txt | sample_libsvm_data.txt | lpsa.data | people.txt
 
 
 ----------------------------------------------------------
-
 
 
 version_1.1
@@ -30,8 +25,4 @@ This dataset is for additional tutorial,"Support hive on Spark".
 
 -file list-
 
-shakespeare.txt
-sample_libsvm_data.txt
-lpsa.data
-people.txt
-kv1.txt
+shakespeare.txt | sample_libsvm_data.txt | lpsa.data | people.txt | kv1.txt
